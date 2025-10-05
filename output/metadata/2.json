@@ -1,0 +1,32 @@
+{
+  "name": "Piggos #2",
+  "description": "A fully generative collection bringing back the classic degen vibes on the mother chain.",
+  "image": "ipfs://__REPLACE_WITH_YOUR_CID__/2.png",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Grass"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Bull"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Dracula"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wizard"
+    }
+  ]
+}

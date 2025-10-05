@@ -1,0 +1,32 @@
+{
+  "name": "Piggos #8",
+  "description": "A fully generative collection bringing back the classic degen vibes on the mother chain.",
+  "image": "ipfs://__REPLACE_WITH_YOUR_CID__/8.png",
+  "edition": 8,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Skin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Samurai"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Laser"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fangs"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cap"
+    }
+  ]
+}

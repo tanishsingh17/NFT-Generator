@@ -1,0 +1,32 @@
+{
+  "name": "Piggos #4",
+  "description": "A fully generative collection bringing back the classic degen vibes on the mother chain.",
+  "image": "ipfs://__REPLACE_WITH_YOUR_CID__/4.png",
+  "edition": 4,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tiguane"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Skin"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Bull"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smoking"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Caeser"
+    }
+  ]
+}

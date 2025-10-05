@@ -1,0 +1,32 @@
+{
+  "name": "Piggos #3",
+  "description": "A fully generative collection bringing back the classic degen vibes on the mother chain.",
+  "image": "ipfs://__REPLACE_WITH_YOUR_CID__/3.png",
+  "edition": 3,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hoodie"
+    },
+    {
+      "trait_type": "Eye",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Chinese"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Party"
+    }
+  ]
+}
