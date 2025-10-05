@@ -1,0 +1,16 @@
+{
+  "name": "nft-generator",
+  "version": "1.0.0",
+  "description": "Layered PNG NFT generator with rarity, rules, and metadata.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "node index.js",
+    "clean": "node -e \"import('fs').then(fs=>fs.promises.rm('./output',{recursive:true,force:true}))\""
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "glob": "^11.0.0",
+    "sharp": "^0.33.5"
+  }
+}
